@@ -1,4 +1,3 @@
-# AE1
-Materia Desenvolvimento Front-End Turma005
+# AE1 — Código Fonte Completo
 
-Cruzeiro do Sul - Curitiba
+Estrutura com HTML + imagens otimizadas (JPG/WebP).
